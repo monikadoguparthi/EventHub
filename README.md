@@ -1,4 +1,4 @@
-# 🎓 EventHub – College Event Discovery Platform
+# 🎓 EventHub – College Event Recommendation System
 
 A modern web application that helps students discover, explore, and participate in college events happening nearby. The platform allows users to browse events, filter them based on location, and view detailed event information through an intuitive interface.
 
@@ -123,7 +123,7 @@ Developed collaboratively as a college project.
 ## 📄 License
 
 This project is developed for educational purposes.
-  # College Event Discovery Platform
+  # College Event Recommendation System.
 
   This is a code bundle for College Event recommendation system. The original project is available at https://www.figma.com/design/JO4xCtHXB5cPyTu7MqfHzf/College-Event-Discovery-Platform.
 
